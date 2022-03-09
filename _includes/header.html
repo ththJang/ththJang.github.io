@@ -36,7 +36,8 @@
               {% endif %}
                 {% endunless %}
               {% endfor %}
-              {% if page.layout == 'project' %}
+              <!-- {% for page in site.layouts %} -->
+              {%if page.layout == 'projects' %}
               <li class="nav__item">
                 <a href="{{site.url}}{{site.baseurl}}/projects">PROJECTS</a>
               </li>

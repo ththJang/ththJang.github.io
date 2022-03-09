@@ -5,10 +5,10 @@
 <!--      <a href="{{project.link}}" target="_blank"> -->
       <a href="{{project.url | absolute_url}}">
       <div class="has-background-black card">
-        <div class="image is-3by1" style="background-image: url({{project.image}});"></div>
+<!--        <div class="image is-3by1" style="background-image: url({{project.image}});"></div> -->
         <div class="card-content">
-          <h1 class="title has-text-white is-size-4">{{ project.name }}</h1>
-          <p class="has-text-white has-text-weight-light content">{{ project.description | truncate: 80}}</p>
+          <h1 class="title has-text-white is-size-4">{{ project.title }}</h1>
+<!--          <p class="has-text-white has-text-weight-light content">{{ project.description | truncate: 80}}</p> -->
         </div>
       </div>
       </a>

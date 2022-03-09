@@ -1,5 +1,6 @@
 ---
 layout: compress
+title: projects
 ---
 
 <!DOCTYPE html>
@@ -17,7 +18,7 @@ layout: compress
         </div>
         <div id="results-container"></div>
         <!--Project Cards Section-->
-        {% for project in pages.projects %}
+        {% for project in pages.posts %}
             {% include project-card.html %}
         {% endfor %}
         </div>

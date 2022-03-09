@@ -1,8 +1,8 @@
-<div class="navbar-item has-dropdown is-hoverable">
-    <a class="navbar-link">
+<div class="nav__item has-dropdown is-hoverable">
+    <a class="nav__link">
         MORE
     </a>
-    <div class="navbar-dropdown has-background-black is-left">
+    <div class="nav__dropdown has-background-black is-left">
         {% for sitepage in site.html_pages %}
         {% unless sitepage.url == '/' or sitepage.url == '/404'  or sitepage.url == '/projects' %}
         <a href="{{sitepage.url | absolute_url}}"
@@ -11,8 +11,8 @@
         </a>
         {% endunless %}
         {% endfor %}
-        <!-- <hr class="navbar-divider">
-    <a class="navbar-item">
+        <!-- <hr class="nav__divider">
+    <a class="nav__item">
       Report an issue
     </a> -->
     </div>

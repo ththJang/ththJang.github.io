@@ -1,33 +1,31 @@
 ---
 layout: compress
-title: Projects
 ---
 
 <!DOCTYPE html>
 <html>
 
-<head>
-    {% include head.html %}
-</head>
+{% include head.html %}
 
 <body>
-    {% include header.html %}
 
-    <!--Main Section-->
     <section class="hero is-fullheight" id="project">
         <div class="hero-body">
-            <div class="container has-text-centered">
-                <div class="section">
-                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Come on In</p>
-                </div>
-                {% include project-card.html %}
+            <div class="container">
+                {% include projectpage-heading.html %}
             </div>
         </div>
+        <div id="results-container"></div>
+        <!--Project Cards Section-->
+        {% for project in pages.projects %}
+            {% include project-card.html %}
+        {% endfor %}
+        </div>
     </section>
-    </div>
-
-    <!--Footer-->
+    <br>
+    <!--Footer begins here-->
     {% include footer.html %}
+
 </body>
 
 </html>

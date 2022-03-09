@@ -32,7 +32,7 @@
               {% if page.title %}
               <li class="nav__item">
                 <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
-                <a class="nav__item {% if page.layout == 'projects' %}is-active{% endif %}"
+                <a class="nav__item {% if page.layout == 'compress' %}is-active{% endif %}"
                     href="{{site.url}}{{site.baseurl}}/projects">PROJECTS</a>
               </li>
               {% endif %}

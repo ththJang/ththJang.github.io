@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Taehwan
-logo: https://github.com/ththJang/ththjang.github.io/blob/master/images/m_design_logo.png?raw=true # You can add own logo.
+logo: m_design_logo.png # You can add own logo.
 description: Hello
 
 

@@ -1,8 +1,10 @@
 ---
-title: ex_new_projects
+title: "ex_new_projects"
 layout: post
-image: https://github.com/ththJang/oldththJang/blob/main/assets/images/BLACKPINK2.jpg?raw=true
+#image: https://github.com/ththJang/oldththJang/blob/main/assets/images/BLACKPINK2.jpg?raw=true
 description: Hello
+tags: nothing
+date:   2022-03-12 00:00:00 +1800
 ---
 
 **BLACKPINK**

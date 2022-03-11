@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: Taehwan
+title: Good day mate!
 logo: m_design_logo.png # You can add own logo.
-description: Hello
+description: G'd mate!
 
 
 #-------------------------------
@@ -10,17 +10,18 @@ description: Hello
 author:
   name: Taehwan Jang
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Taehwan Jang</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: Good day mate! I’m <strong>Taehwan Jang</strong>
+  bio: A personal <strong>website</strong> but to share <strong>ideas</strong> and <a href="#">codes</a>codes.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
+#twitter: https://twitter.com/ # Add your Twitter handle
 facebook: https://facebook.com/oasis2 # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
+github: https://www.github.com/ththJang
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
 instagram: https://instagram.com/jthgreene # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------

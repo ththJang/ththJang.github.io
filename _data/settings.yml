@@ -9,10 +9,9 @@ description: Taehwan
 # Author Settings
 author:
   name: Taehwan Jang
-  image: library_img_libraries.jpg
+  image: 01.jpg
   say-hello: GOOD DAY, MATE! <p>I’m <strong>Taehwan Jang</strong></p>
-  bio: A personal <strong>website</strong> but to share <strong>ideas</strong> and <a href="#">codes</a>. Don't get stuck, think outside the box. Glad to talk with you! Currently Ph. D. candidate in chemistry at Korea Advanced Institute of Science
-  and Technology (KAIST), South Korea.
+  bio: A personal <strong>website</strong> but to share <strong>ideas</strong> and <a href="#">codes</a>.
 
 
 #-------------------------------

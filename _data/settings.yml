@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: Good day mate!
+title: G'day Mate!
 logo: m_design_logo.png # You can add own logo.
-description: G'd mate!
+description: Good day mate!
 
 
 #-------------------------------
@@ -10,8 +10,8 @@ description: G'd mate!
 author:
   name: Taehwan Jang
   image: 01.jpg
-  say-hello: Good day mate! I’m <strong>Taehwan Jang</strong>
-  bio: A personal <strong>website</strong> but to share <strong>ideas</strong> and <a href="#">codes</a>codes.
+  say-hello: Good day mate! <p>I’m <strong>Taehwan Jang</strong></p>
+  bio: A personal <strong>website</strong> but to share <strong>ideas</strong> and <a href="#">codes</a>.
 
 
 #-------------------------------

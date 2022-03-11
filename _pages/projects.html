@@ -22,7 +22,10 @@ title: projects
 			                {% include article-content.html %}
 		                {% endfor %}
 	                {% endif %}
-	            </div>
+			{% for project in site.posts %}
+            			{% include project-card.html %}
+        		{% endfor %}
+	            </div>		   
             </div>
         </div>
     </section>

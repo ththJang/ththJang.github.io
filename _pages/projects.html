@@ -15,15 +15,19 @@ title: projects
             <div class="container">
                 {% include projectpage-heading.html %}
             </div>
-        </div>
-        <div id="results-container"></div>
-        <!--Project Cards Section-->
-            {% include project-card.html %}
+            <div class="container">
+	            <div class="row">
+	                {% if site.posts.size > 0 %}
+		                {% for post in paginator.posts %}
+			                {% include article-content.html %}
+		                {% endfor %}
+	                {% endif %}
+	            </div>
+            </div>
         </div>
     </section>
     <br>
     <!--Footer begins here-->
-    {% include footer.html %}
 
 </body>
 

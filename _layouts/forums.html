@@ -9,16 +9,16 @@ layout: compress
 
 <body>
 
-    <section class="hero is-fullheight" id="project">
+    <section class="hero is-fullheight" id="forum">
         <div class="hero-body">
             <div class="container">
-                {% include projectpage-heading.html %}
+                {% include forumpage-heading.html %}
             </div>
         </div>
         <div id="results-container"></div>
         <!--Project Cards Section-->
-        {% for project in site.posts %}
-            {% include project-card.html %}
+        {% for forum in site.posts %}
+            {% include forum-card.html %}
         {% endfor %}
         </div>
     </section>

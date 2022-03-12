@@ -1,7 +1,7 @@
 ---
 title: "ex_new_projects"
 layout: post
-image:  jisoo.jpg
+image:  BLACKPINK.jpg
 tags: nothing
 date:   2022-03-12 00:00:00 +1800
 ---
@@ -9,3 +9,9 @@ date:   2022-03-12 00:00:00 +1800
 **BLACKPINK**
 <br>
 No copyright infringement intended. © YG Entertainment
+
+![]({{ site.baseurl }}/images/jisoo.jpg)
+*jisoo from BLACKPINK
+![](https://github.com/ththJang/oldththJang/blob/main/assets/images/tobereleased.jpg?raw=true)
+*what's inside the box?
+

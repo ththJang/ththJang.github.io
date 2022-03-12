@@ -1,14 +1,14 @@
 <div class="columns is-centered is-multiline is-mobile">
-  {% for project in site.posts %}
+  {% for forum in site.posts %}
     <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
       id="project-card">
-      <a href="{{project.link}}" target="_blank">
-      <a href="{{project.url | absolute_url}}">
+      <a href="{{forum.link}}" target="_blank">
+      <a href="{{forum.url | absolute_url}}">
       <div class="has-background-black card">
-        <div class="image is-3by1" style="background-image: url({{project.image}});"></div> 
+        <div class="image is-3by1" style="background-image: url({{forum.image}});"></div> 
         <div class="card-content">
-          <h1 class="title has-text-white is-size-4">{{ project.title }}</h1>
-          <p class="has-text-white has-text-weight-light content">{{ project.description | truncate: 80}}</p>
+          <h1 class="title has-text-white is-size-4">{{ forum.title }}</h1>
+          <p class="has-text-white has-text-weight-light content">{{ forum.description | truncate: 80}}</p>
         </div>
       </div>
       </a>

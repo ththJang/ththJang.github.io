@@ -11,7 +11,7 @@ date:   2022-03-12 00:00:00 +1800
 No copyright infringement intended. © YG Entertainment
 
 ![]({{ site.baseurl }}/images/jisoo.jpg)
-*jisoo from BLACKPINK
+*jisoo from BLACKPINK*
 ![](https://github.com/ththJang/oldththJang/blob/main/assets/images/tobereleased.jpg?raw=true)
-*what's inside the box?
+*what's inside the box?*
 

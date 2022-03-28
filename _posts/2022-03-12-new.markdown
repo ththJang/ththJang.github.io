@@ -1,9 +1,9 @@
 ---
-title: "ex_new_projects"
 layout: post
-image:  BLACKPINK.jpg
-tags: nothing
+title: "ex_new_projects"
 date:   2022-03-12 00:00:00 +1800
+image:  BLACKPINK.jpg
+tags: BLACKPINK
 ---
 
 **BLACKPINK**

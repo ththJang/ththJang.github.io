@@ -18,3 +18,4 @@ The bigger and the fancier
 ![](https://github.com/ththJang/oldththJang/blob/main/assets/images/tobereleased.jpg?raw=true){: width="100%" height="100%"}
 *what's inside the box?*
 
+The size of preview image and truncated context grows 

@@ -13,6 +13,8 @@ No copyright infringement intended. © YG Entertainment
 ![]({{ site.baseurl }}/images/jisoo.jpg){: width="100%" height="100%"}
 *jisoo from BLACKPINK*
 The bigger and the fancier
+
+
 ![](https://github.com/ththJang/oldththJang/blob/main/assets/images/tobereleased.jpg?raw=true){: width="100%" height="100%"}
 *what's inside the box?*
 
